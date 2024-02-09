@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.Card-Container{
+    display: flex;
+    justify-content: space-between;
+    height: 250px;
+    width: 600px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.Img-Container img{
+    height: 92%;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+.Detail-Container{
+    height: 92%;
+    width: 60%;
+}
+.Detail-Container p{
+    font-size: 28px;
+    font-family: 'Poppins', sans-serif;
+}
